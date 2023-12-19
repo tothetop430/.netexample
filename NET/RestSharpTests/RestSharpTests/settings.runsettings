@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <RunConfiguration>
+		<TestRunParameters>
+			<Parameter name="env" value="qa1" />
+			<Parameter name="content-type" value="application/json;charset=utf-8;"></Parameter>
+		</TestRunParameters>
+    </RunConfiguration>
+</RunSettings>

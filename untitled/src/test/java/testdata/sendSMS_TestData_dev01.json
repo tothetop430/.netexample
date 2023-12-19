@@ -1,0 +1,17 @@
+{
+  "Test1": {
+    "testDescription": "TestScenario: 201_Succesfully sent an SMS message in English",
+    "responseCode": 201,
+    "queryParams": {
+      "accountNumber": "955890603",
+      "phoneNumber": "4167310065"
+
+    },
+    "requestBody": {
+
+    },
+    "expectedResponse": {
+
+    }
+  }
+}
